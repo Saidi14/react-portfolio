@@ -8,7 +8,7 @@ function About(){
                     I have experience developing desktop applications and websites.
                 </p>
             </div>
-            <img src="/home-img.png" alt="home Image"/>
+            <img src="./react-portfolio/home-img.png" alt="Home Image"/>
         </div>
     )
 }
